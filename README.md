@@ -5,5 +5,3 @@ In this study, a pipeline of micro-climate building context visualization is pro
 
 The pipeline code and samples of the generated maps can be found at this repository. 
 
-![982](https://github.com/Fatemeh-Mostafavi/Micro-Climate-Building-Context-Visualization-/assets/91588898/ccbc9a76-20df-4fa8-a126-fe1a5ace59bf)
-
